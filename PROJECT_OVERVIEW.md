@@ -238,7 +238,7 @@ Target variable: `risiko_selingkuh` (0/1/2)
 
 ### Streamlit Web Application
 
-- **Interactive Form**: 36 input fields untuk user
+- **Interactive Form**: 37 input fields untuk user
 - **Real-time Prediction**: Instant risk assessment
 - **SHAP Visualization**: Top factors meningkatkan/menurunkan risiko
 - **Probability Distribution**: Bar chart 3 fase risiko
