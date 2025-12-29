@@ -23,7 +23,7 @@ Perselingkuhan (infidelity) adalah salah satu penyebab utama kegagalan hubungan.
 - **3000 responden** dengan distribusi realistis
 - **8 CSV files** mencakup dimensi berbeda
 
-### Dimensi Data (36+ Features)
+### Dimensi Data (37 Features)
 
 #### 1. 📁 `kepuasan_hubungan` (5 fitur)
 
